@@ -2,6 +2,10 @@
 
 Os reinos estavam em properidade e harmonia, mas as antigas alianças ficaram abaladas quando um novo reino resolve ascender sobre os outros, gerando uma guerra por todos os lados buscando o monopólio de recursos e terras novos acordos foram feitos para garantir a vitória do melhor estrategista em campo
 
+## Condições de Vitória
+
+Derrotar um comandante ou centro de comando da equipe adversária
+
 ## Mecânicas
 
 Cada jogador tem no seu turno pode realizar uma ação por unidade em campo, com algumas exceções as unidade podem atacar ou usar habilidades em movimento
@@ -23,17 +27,17 @@ Birdoj tie ĉi kantantaj
 
 Birdoj tie ĉi kantantaj
 
-### Crítico
+### Ataque Favorável
 
 Birdoj tie ĉi kantantaj
 
-### 
+### Treinar
 
-Birdoj tie ĉi kantantaj
+Com o máximo de 10 unidades por jogador, os quarteis podem treinar unidades que somente poderam agir no próximo turno
 
-### Coletar Recursos
+### Coletar Taxas
 
-Para cada vila dominada gera uma moeda por início de turno, para tomar uma 
+Para cada vila dominada gera uma moeda por início de turno, para tomar uma
 
 ## Estrutura de Recursos
 
@@ -41,7 +45,7 @@ vasfvafsv
 
 ### Comandantes
 
-Cada jogador conta com um comandante, o comandante é uma carta poderosa com 10 pontos de vida 
+Cada jogador conta com um comandante, o comandante é uma carta poderosa com 10 pontos de vida
 
 * Lord George
 * General Maria
@@ -52,46 +56,69 @@ Cada jogador conta com um comandante, o comandante é uma carta poderosa com 10 
 
 vasfvafsv
 
-* Soldados (Light Hitter)
+* Soldados
+Birdoj tie ĉi kantantaj
   * 3 Espaços de Movimento
   * 1 Espaços de Ataque
   * 3 Pontos de Vida
   * Forte contra Arqueiros
+  * 2 / 0 / 1
   * 1 moeda
-* Cavaleiros (Heavy Hitter)
+  
+* Cavaleiros
+Birdoj tie ĉi kantantaj
   * 5 Espaços de Movimento
   * 1 Espaços de Ataque
   * 5 Pontos de Vida  
   * Forte contra Catapultas
+  * 4 / 1 / 2
   * 3 moedas
-* Arqueiros (Distância + Light Hitter)
+
+* Arqueiros
+Birdoj tie ĉi kantantaj
   * 3 Espaços de Movimento
   * 3 Espaços de Ataque
   * 3 Pontos de Vida  
   * Forte contra Magos
+  * 2 / 0 / 1
   * 2 moedas
-* Magos (Magia + Medium Hitter)
+
+* Magos
+Birdoj tie ĉi kantantaj
   * 5 Espaços de Movimento
   * 1 Espaços de Ataque
   * 2 Pontos de Vida  
   * Forte contra Cavaleiros
+  * 3 / 0 / 2
   * 4 moedas
-* Catapulta (Distância + Mega Hitter)
+  
+* Catapulta  
+Movimento ou Ataque por turno  
   * 5 Espaços de Movimento
   * 4 Espaços de Ataque
   * 5 Pontos de Vida
   * Forte contra Soldados
+  * 5 / 2 / 0  
   * 6 moedas
-
-  * Movimento ou Ataque por turno  
+  * **Condição:** Movimento ou Ataque por turno  
 
 ### Peças
 
-* Marcador de Vida
-* Vila
-* Quartel
-* Centro de Comando
-* Unidades por Tipo: Soldados, Cavaleiros, Arqueiros, Magos, Catapulta
+* Comandantes (um por facção)
+  * Lord George (Azul)
+  * General Maria (Amarelo)
+  * Imperatriz Elizabeth (Branco)
+  * Rei Luis (Vermelho)
+* Unidades por Tipo
+  * 4 Soldados por facção (16)
+  * 3 Cavaleiros por facção (12)
+  * 3 Arqueiros por facção (12)
+  * 3 Magos por facção (12)
+  * 2 Catapulta por facção (8)
+* 40 marcadores de vida (Roxo)
+* 10 Vilas por facção (40)
+* 2 Quartel por facção (8)
+* 4 Centros de Comandos (um por facção)
 
 ### Mapa
 
@@ -100,6 +127,4 @@ vasfvafsv
 * Quartel
 * Centro de Comando (1 por equipe)
 
-## Condições de Vitória
 
-Derrotar um comandante ou centro de comando da equipe adversária 
