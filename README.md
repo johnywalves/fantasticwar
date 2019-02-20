@@ -102,20 +102,20 @@ Movimento ou Ataque por turno
   * 6 moedas
   * **Condição:** Movimento ou Ataque por turno  
 
-### Peças
+### Componentes
 
-* Comandantes (um por facção)
+* Comandantes (um por facção) (4 cartas, 4 tokens)
   * Lord George (Azul)
   * General Maria (Amarelo)
   * Imperatriz Elizabeth (Branco)
   * Rei Luis (Vermelho)
-* Unidades por Tipo
-  * 4 Soldados por facção (16)
-  * 3 Cavaleiros por facção (12)
-  * 3 Arqueiros por facção (12)
-  * 3 Magos por facção (12)
-  * 2 Catapulta por facção (8)
-* 40 marcadores de vida (Roxo)
+* Unidades por Tipo (4 cartas, 4 tokens)
+  * 4 Soldados por facção (16 cartas, 16 tokens)
+  * 3 Cavaleiros por facção (12 cartas, 12 tokens)
+  * 3 Arqueiros por facção (12 cartas, 12 tokens)
+  * 3 Magos por facção (12 cartas, 12 tokens)
+  * 2 Catapulta por facção (8 cartas, 8 tokens)
+* 40 marcadores de vida (Roxo) (40 tokens)
 * 10 Vilas por facção (40)
 * 2 Quartel por facção (8)
 * 4 Centros de Comandos (um por facção)
