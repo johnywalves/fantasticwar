@@ -173,6 +173,7 @@ Movimento ou Ataque por turno
 
 As cartas são usadas para consulta das estátisticas das unidades e para acompanhar sua saúde, ela é composta pela:
 * Quantidade de Moedas para o treinamento
+* Pontos de Vidas e condições
 * Descrição de uma habilidade, se possuir
   
 ## Componentes
@@ -202,5 +203,6 @@ As cartas são usadas para consulta das estátisticas das unidades e para acompa
 
 ## Referências
 
-[Seven Years War - Wikipedia](https://en.wikipedia.org/wiki/Seven_Years'_War)  
 [Unit Types - Wargroove](https://wargroovewiki.com/Unit_Types)
+[Seven Years War - Wikipedia](https://en.wikipedia.org/wiki/Seven_Years'_War)  
+[Characters - Valkirie Chronicles](https://valkyria.fandom.com/wiki/Category:Characters)
